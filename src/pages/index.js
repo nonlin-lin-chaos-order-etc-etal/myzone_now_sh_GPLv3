@@ -20,13 +20,9 @@ function Index() {
       <h1>nile starts here!</h1>
       <br/>
       <p>
-        Made with help of
-        <a
-          href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
-          target="_blank"
-          rel="noreferrer noopener"
-        >template</a>{' '} is a Gatsby app with two
-        directories,
+        Made with help of{' '}
+        <a href="https://github.com/vercel/vercel/tree/main/examples/gatsby" target="_blank" rel="noreferrer noopener">template</a>.
+        Is a Gatsby app with two directories,
         <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/src"><code>/src</code></a>
         for static content and
         <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/api"><code>/api</code></a>{' '}

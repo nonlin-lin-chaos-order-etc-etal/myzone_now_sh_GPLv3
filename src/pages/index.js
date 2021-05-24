@@ -28,7 +28,7 @@ function Index() {
         <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/api"><code>/api</code></a>{' '}
         which contains a serverless{' '} <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date"><code>api/date</code> for the Date API with Node.js (TypeScript)</a>.
-        As an example, the date according to Node.js (TypeScript) is: {date ? date : 'Loading date...'}
+        As an example, the date according to Node.js (TypeScript) is: {date ? date : 'Loading date...'} | https://dou.ua/lenta/articles/gatsbyjs-guide/
       </p>
       <hr/>
       Copyright © 1974.....2021 me. All Rights Reserved.

@@ -43,7 +43,7 @@ function Index() {
         Hosted by{' '} <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Vercel</a>{' '} et {' '}
         <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3">GitHub</a>
         {' · '} 
-        Powered by{' '} <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
+        Powered by{' '} <a href="https://www.gatsbyjs.org/" target="_blank" rel="noreferrer noopener">Gatsby</a>
       </p>
     </main>
   );

@@ -70,3 +70,7 @@ yarn-error.log
 .yarn-integrity
 
 .vercel
+
+*.sublime-project
+*.sublime-workspace
+*~

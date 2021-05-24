@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 import Img from "gatsby-image"
-import imageOfGiantWorldsKeeperBannerVV8 from "../images/ava_giant_vv8.png"
+import styled from "@emotion/styled"
+
 import '../styles/index.css';
+
+import imageOfGiantWorldsKeeperBannerVV8 from "../images/ava_giant_vv8.png"
 
 const GiantWorldsKeeperBannerVV8 = styled(`img`)`
   padding: 17px;

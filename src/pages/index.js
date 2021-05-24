@@ -25,7 +25,7 @@ function Index() {
       <p>(* <a href="https://vercel.com/linear-et-nonlinear-chaos-order-etc-etal/myzone">this site's now.sh dashboard at Vercel</a> *)</p>
       <br/>
       <p>(* ДВИЖКИ МОИХ ПРОЗРАЧНЫХ И НЕПРОЗРАЧНЫХ АМБАРОВ: <a href="https://myresourcesfeedbacksloops.now.sh/">🐸🚀🌌+∞¤ my feedbacks loops</a> *)</p>
-      <br>
+      <br/>
       <p>
         Made with help of{' '}
         a <a href="https://github.com/vercel/vercel/tree/main/examples/gatsby" target="_blank" rel="noreferrer noopener">Gatsby now.sh template</a>.

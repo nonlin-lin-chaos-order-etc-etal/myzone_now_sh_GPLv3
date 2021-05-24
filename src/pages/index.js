@@ -22,9 +22,9 @@ function Index() {
       <p>
         Made with help of{' '}
         a <a href="https://github.com/vercel/vercel/tree/main/examples/gatsby" target="_blank" rel="noreferrer noopener">Gatsby now.sh template</a>.
-        Is an app with two directories,
-        <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/src"><code>/src</code></a>
-        for static content and
+        Is an app with two directories,{' '}
+        <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/src"><code>/src</code></a>{' '}
+        for static content and{' '}
         <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3/tree/main/api"><code>/api</code></a>{' '}
         which contains a serverless{' '} <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date"><code>api/date</code> for the Date API with Node.js (TypeScript)</a>.

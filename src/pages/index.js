@@ -37,7 +37,7 @@ function Index() {
         As an example, the date according to Node.js (TypeScript) is: {date ? date : 'Loading date...'} | https://dou.ua/lenta/articles/gatsbyjs-guide/
       </p>
       <hr/>
-      Copyright © 1974.....2021 GIANT WORLDKEEPER: ИНЕИСТЫЙЪЬ ВЕЛИКАНЪЬ ХРАНИМИРЪЬ. All Rights Reserved.
+      Copyright © 1974.....2021 Someone Role Playing As GIANT WORLDKEEPER ИНЕИСТЫЙЪЬ ВЕЛИКАНЪЬ ХРАНИМИРЪЬ. All Rights Reserved.
       <hr/>
       <p>
         Hosted by{' '} <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Vercel</a>{' '} et {' '}

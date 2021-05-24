@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>my.zone</title>
+        <title>the nile starts here!</title>
       </Helmet>
       <h1>the nile starts here!</h1>
       <br/>

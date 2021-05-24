@@ -1,3 +1,13 @@
+# myzone.now.sh web frontend
+
+# Copyright
+
+Copyright © 1974.....2021 me. All Rights Reserved.
+
+<hr/>
+
+# Template content follows
+
 ![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
 
 # Gatsby Example

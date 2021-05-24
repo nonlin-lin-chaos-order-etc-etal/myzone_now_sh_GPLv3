@@ -34,9 +34,10 @@ function Index() {
       Copyright © 1974.....2021 me. All Rights Reserved.
       <hr/>
       <p>
-        Hosted by{' '} <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Vercel</a>
+        Hosted by{' '} <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Vercel</a>{' '} et {' '}
+        <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3" target="_blank">GitHub</a>
         {' · '} 
-        Powered by{' '} <a href="https://www.gatsbyjs.org/">Gatsby</a>
+        Powered by{' '} <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
       </p>
     </main>
   );

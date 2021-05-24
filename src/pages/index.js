@@ -29,15 +29,15 @@ function Index() {
         which contains a serverless{' '} <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date"><code>api/date</code> for the Date API with Node.js (TypeScript)</a>.
       </p>
+        {<!-- <p>The date according to Node.js (TypeScript) is: {date ? date : 'Loading date...'}</p> -->}
+      <hr/>
+      Copyright © 1974.....2021 me. All Rights Reserved.
       <hr/>
       <p>
         Hosted by{' '} <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Vercel</a>
         {' · '} 
         Powered by{' '} <a href="https://www.gatsbyjs.org/">Gatsby</a>
       </p>
-      <p>The date according to Node.js (TypeScript) is: {date ? date : 'Loading date...'}</p>
-      <hr/>
-      Copyright © 1974.....2021 me. All Rights Reserved.
     </main>
   );
 }

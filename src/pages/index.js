@@ -36,7 +36,10 @@ function Index() {
       <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
       <p>(* <a href="https://vercel.com/linear-et-nonlinear-chaos-order-etc-etal/myzone">this site's now.sh dashboard at Vercel</a> *)</p>
       <br/>
-      <p>(* ДВИЖКИ МОИХ ПРОЗРАЧНЫХ И НЕПРОЗРАЧНЫХ АМБАРОВ: <a href="https://myresourcesfeedbacksloops.now.sh/">🐸🚀🌌+∞¤ my feedbacks loops</a>: shepherd's ( vis vitalis ↝↠⇉ ±∞ ) outpost *)</p>
+      <p>(*
+        ДВИЖКИ МОИХ ПРОЗРАЧНЫХ (* С ОТКРЫТЫМИ ЧЕРТЕЖАМИ МАШИН *) И НЕПРОЗРАЧНЫХ (* БЕЗ ОТКРЫТЫХ ЧЕРТЕЖЕЙ *) АМБАРОВ, ИЛИ ЛЯГУШКИНЫ МУХИ+¤¤¤¤¤¤¤¤:
+        <a href="https://myresourcesfeedbacksloops.now.sh/">🐸🚀🌌+∞¤ my feedbacks loops</a>: shepherd's ( vis vitalis ↝↠⇉ ±∞ ) outpost
+      *)</p>
       <br/>
       <p>
         Made with help of{' '}

@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>my.zone</title>
       </Helmet>
-      <h1>nile starts here!</h1>
+      <h1>the nile starts here!</h1>
       <br/>
       <p>
         Made with help of{' '}

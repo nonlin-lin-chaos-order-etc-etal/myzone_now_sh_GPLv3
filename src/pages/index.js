@@ -15,10 +15,17 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>the nile starts here!</title>
+        <title>🐸🚀🌌+∞ the nile starts here!</title>
       </Helmet>
-      <h1>the nile starts here!</h1>
+      <h1>🐸🚀🌌+∞ the nile starts here!</h1>
+      <h2>⊙🐸🚀🌌+∞¤💎🧙🐝💞🏡🌈🐁💚 et cetera et al 🠞 the nile</h2>
+     for this shepherd's ( vis vitalis ↝↠⇉ ±∞ ) outpost
+      <p>(* <a href="https://myzone.now.sh/">this site's facade</a> *)</p>
+      <p>(* <a href="https://github.com/nonlin-lin-chaos-order-etc-etal/myzone_now_sh_GPLv3">this site's GPL3 source code repo at GitHub</a> *)</p>
+      <p>(* <a href="https://vercel.com/linear-et-nonlinear-chaos-order-etc-etal/myzone">this site's now.sh dashboard at Vercel</a> *)</p>
       <br/>
+      <p>(* ДВИЖКИ МОИХ ПРОЗРАЧНЫХ И НЕПРОЗРАЧНЫХ АМБАРОВ: <a href="https://myresourcesfeedbacksloops.now.sh/">🐸🚀🌌+∞¤ my feedbacks loops</a> *)</p>
+      <br>
       <p>
         Made with help of{' '}
         a <a href="https://github.com/vercel/vercel/tree/main/examples/gatsby" target="_blank" rel="noreferrer noopener">Gatsby now.sh template</a>.
